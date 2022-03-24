@@ -1,6 +1,5 @@
 '''
 By ; youssef abdelghfar abdeltwab abdelghfar
-num of game = 6 (bouns)
 name of game = Subtract a Square
 '''
 
